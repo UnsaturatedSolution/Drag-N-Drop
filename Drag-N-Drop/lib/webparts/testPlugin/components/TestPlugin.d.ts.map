@@ -1,0 +1,1 @@
+{"version":3,"file":"TestPlugin.d.ts","sourceRoot":"","sources":["../../../../src/webparts/testPlugin/components/TestPlugin.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAAE,gBAAgB,EAAE,MAAM,oBAAoB,CAAC;AAItD,MAAM,CAAC,OAAO,OAAO,UAAW,SAAQ,KAAK,CAAC,SAAS,CAAC,gBAAgB,EAAE,EAAE,CAAC;IACpE,MAAM,IAAI,KAAK,CAAC,YAAY,CAAC,gBAAgB,CAAC;CAoBtD"}
